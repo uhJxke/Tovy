@@ -27,7 +27,7 @@
     "envfile": "^6.17.0",
     "express": "^4.17.2",
     "express-ws": "^5.0.2",
-    "funcaptcha": "^1.0.15",
+    "funcaptcha": "^1.0.30",
     "inquirer": "^7.3.3",
     "lodash": "^4.17.21",
     "minimist": "^1.2.6",
