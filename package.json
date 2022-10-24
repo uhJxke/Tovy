@@ -17,7 +17,7 @@
     "@mdi/font": "^6.7.96",
     "@redis/json": "^1.0.3",
     "axios": "^0.24.0",
-    "bcrypt": "^5.0.1",
+    "bcrypt": "^5.1.0",
     "connect-history-api-fallback": "^1.6.0",
     "cookie-session": "^2.0.0",
     "core-js": "^3.6.5",
