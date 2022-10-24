@@ -25,7 +25,7 @@
     "discord.js": "^13.6.0",
     "dotenv": "^8.6.0",
     "envfile": "^6.17.0",
-    "express": "^4.17.2",
+    "express": "^4.18.2",
     "express-ws": "^5.0.2",
     "funcaptcha": "^1.0.15",
     "inquirer": "^7.3.3",
